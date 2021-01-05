@@ -1,4 +1,4 @@
-# HkView 0.0.6
+# HkView 0.1.16
 
 Kolay Özelleştirilebilir bir WebView Flutter App şuan alpha sürümünde.
 - Web siteniz mobil uyumlu (responsive) bir tasarım olması gerekiyor.
